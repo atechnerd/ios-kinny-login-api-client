@@ -7,7 +7,6 @@ Pod::Spec.new do |s|
   s.source = { :git => 'https://github.com/kinnytips/ios-kinny-login-api-client.git', :tag => s.version.to_s }
   s.authors = { 'Kinnytips' => 'developer@kinny.io' }
   s.social_media_url = 'https://kinny.io'
-  s.docset_url = 'https://github.com/kinnytips/ios-kinny-login-api-client'
   s.license = 'Proprietary'
   s.homepage = 'https://kinny.io'
   s.description = 'Kinny Login Api for iOS'
